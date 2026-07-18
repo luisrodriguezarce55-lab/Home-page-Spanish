@@ -9,7 +9,7 @@
 
 ### 👤 Mi Filosofía y Enfoque
 
-No busco definir mi perfil con títulos teóricos; **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Mi enfoque actual está invertido al 100% en estudiar, practicar y dominar mis habilidades en Ciencia de Datos y Analítica.
+No busco definir mi perfil con títulos teóricos; **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Mi enfoque actual está invertido al 100% en estudiar, practicar, dominar mis habilidades y conseguir trabajo en Ciencia de Datos y Analítica.
 
 A través de este espacio, documento mi progreso técnico día a día con total transparencia. Cada modelo, consulta o script que comparto refleja mi disciplina y un compromiso real con la construcción de bases sólidas. Como valor agregado, mi formación en Ingeniería Industrial y Marketing Digital enfocado en SEO me brinda una mentalidad lógica, metódica y orientada a la optimización de procesos de negocio.
 
