@@ -65,10 +65,10 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 
 📂 **¿Quieres ver mi trabajo en acción?** Cada proyecto abajo muestra las herramientas realmente usadas, para que sepas exactamente qué esperar antes de entrar.
 
-#### 🚀 [Proyecto Integral de Extremo a Extremo — Sistema ATM](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
+#### 🚀 [Proyecto Integral de Extremo a Extremo](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
-* **De qué se trata:** Un proyecto robusto que cubre todo el ciclo de vida del dato, construido alrededor de la simulación de una red de cajeros automáticos: cuentas, saldos, límites de retiro, e historial de transacciones a través del tiempo.
+* **De qué se trata:** Proyectos robustos que cubre todo el ciclo de vida del dato.
 * **Qué esperar:** Diseño de Diagrama Entidad-Relación (DER), extracción y consultas SQL complejas sobre datos transaccionales, procesamiento y análisis de patrones de fraude en Python, y un dashboard interactivo final enfocado en el desempeño del negocio.
 
 #### 🎯 Proyectos Especializados por Herramienta
