@@ -39,7 +39,7 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 
 ---
 
-### 🛠️ Habilidades Actuales (Panorama Honesto)
+### 🛠️ Habilidades Actuales 
 
 * **SQL — base sólida, profundizando**
   <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
