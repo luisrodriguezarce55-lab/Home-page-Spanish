@@ -78,7 +78,7 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 #### 📊 [Portafolio SQL](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
-* **De qué se trata:** Una colección continua de práctica en SQL — los ejercicios y pequeñas construcciones detrás de mi estudio diario, no un solo gran proyecto.
+* **De qué se trata:** Una colección continua de práctica en SQL — los ejercicios y pequeñas construcciones detrás de mi estudio diario, no un solo gran proyecto. (Ingesta de datos, almacenamiento, procesamiento/transformación, análisis/despliegue de modelos y visualización/orquestación)
 * **Qué esperar:** Modelado entidad-relación, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), y lógica aplicada para estructurar bases de datos relacionales.
 
 #### 🐍 [Portafolio Python](https://github.com/luisrodriguezarce55-lab/portfolio-python)
