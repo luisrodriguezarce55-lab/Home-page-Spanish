@@ -1,6 +1,6 @@
 # Luis Felipe Rodríguez Arce 👋
-> **Ciencia de Datos → Sistemas de Bases de Datos y Arquitectura en la Nube (en progreso)**
-> _Construyendo hacia infraestructura de datos backend — SQL, diseño de esquemas y bases de datos en la nube — a través de práctica diaria, consistencia y resolución estructurada de problemas._
+> **Ingeniero Industrial → Ciencia de Datos → Ingeniería de Datos (en curso).**
+> _Enfocado en el desarrollo de pipelines de datos e infraestructura en la nube (SQL, Python, Azure y Databricks)._
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### 👤 Mi Filosofía y Enfoque
 
-No defino mi perfil con títulos teóricos — **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos, y lo uso como mi punto de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico: **infraestructura de datos backend** — diseño de bases de datos relacionales, optimización de consultas, y eventualmente arquitectura de bases de datos en la nube.
+No defino mi perfil con títulos teóricos — **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos, y lo uso como mi punto de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico: **Ingeniería de datos y arquitectura en la nube:** desarrollo de pipelines listos para producción, trabajo con Azure y Databricks, y evolución progresiva hacia la arquitectura de datos en la nube.
 
 Mi formación en Ingeniería Industrial me da una perspectiva estructural y de optimización de procesos que aplico directamente a los datos: cómo fluye la información, dónde se forman los cuellos de botella, y cómo diseñar sistemas que se sostengan bajo uso real — no solo que se vean correctos en papel.
 
