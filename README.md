@@ -10,7 +10,7 @@
 
 ### 👤 Mi Filosofía y Enfoque
 
-No defino mi perfil con títulos teóricos — **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos, y lo uso como mi punto de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico: **Ingeniería de datos y arquitectura en la nube:** desarrollo de pipelines listos para producción, trabajo con Azure y Databricks, y evolución progresiva hacia la arquitectura de datos en la nube.
+No defino mi perfil con títulos teóricos — **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos, y lo uso como mi punto de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico: **Ingeniería de datos y arquitectura de soluciones:** desarrollo de pipelines listos para producción, trabajo con Azure y Databricks, y evolución progresiva hacia la arquitectura de datos en la nube.
 
 Mi formación en Ingeniería Industrial me da una perspectiva estructural y de optimización de procesos que aplico directamente a los datos: cómo fluye la información, dónde se forman los cuellos de botella, y cómo diseñar sistemas que se sostengan bajo uso real — no solo que se vean correctos en papel.
 
@@ -73,7 +73,7 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 
 
 
-#### 📊 [Mini proyectos](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+#### 📊 [Mini proyectos](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
 * Una recopilación continua de ejercicios prácticos con datos, pequeños desarrollos y scripts de prueba. Este espacio recoge el trabajo técnico cotidiano que forma parte de mi trayectoria en ingeniería de datos y ciencia de datos, centrándose en la resolución práctica de problemas más que en proyectos únicos y monolíticos.
@@ -91,7 +91,7 @@ Notas de clase diarias, ejercicios, y retos de programación — documentados so
 
 ### 💭 Blog
 
-📂 **Lo que voy a publicar aquí:** reflexiones cortas sobre cosas que escucho o leo sobre bases de datos, ingeniería de datos, y arquitectura en la nube — podcasts, videos, conversaciones, o noticias que llaman mi atención. No son artículos pulidos, solo pensamiento genuino en voz alta mientras construyo familiaridad con el campo — qué me llamó la atención, por qué es interesante, y cómo se conecta con lo que estoy aprendiendo.
+📂 **Lo que voy a publicar aquí:** reflexiones cortas sobre cosas que escucho o leo sobre bases de datos, ingeniería de datos, y arquitectura de soluciones — podcasts, videos, conversaciones, o noticias que llaman mi atención. No son artículos pulidos, solo pensamiento genuino en voz alta mientras construyo familiaridad con el campo — qué me llamó la atención, por qué es interesante, y cómo se conecta con lo que estoy aprendiendo.
 
 ---
 
@@ -115,6 +115,3 @@ Notas de clase diarias, ejercicios, y retos de programación — documentados so
 * 💼 **LinkedIn:** [Perfil Profesional de LinkedIn](https://www.linkedin.com/in/luis-felipe-rodriguez-arce/)
 
 ---
-
-### ✉️ Conectemos
-* 💼 **LinkedIn:** [Perfil Profesional de LinkedIn](https://www.linkedin.com/in/luis-felipe-rodriguez-arce/)
