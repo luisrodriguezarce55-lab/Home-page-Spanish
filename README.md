@@ -25,8 +25,8 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 [![Blog](https://img.shields.io/badge/💭_Blog-181717?style=for-the-badge)](#-blog)
 [![Certificaciones](https://img.shields.io/badge/🏆_Certificaciones-181717?style=for-the-badge)](#-certificaciones)
 
-[![Portafolio SQL](https://img.shields.io/badge/Portafolio_SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-[![Portafolio Python](https://img.shields.io/badge/Portafolio_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+
+[![Mini Portfolio](https://img.shields.io/badge/Mini-Portafolio-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
 [![Bitácora Técnica](https://img.shields.io/badge/Bitácora_Técnica-F9A825?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/luisrodriguezarce55-lab/data-science-journal)
 [![Historial Completo de Certificaciones](https://img.shields.io/badge/Historial_de_Certificaciones-6f42c1?style=for-the-badge)](https://github.com/luisrodriguezarce55-lab/Full-Certification-History)
 
