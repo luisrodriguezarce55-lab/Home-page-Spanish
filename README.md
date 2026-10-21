@@ -65,27 +65,18 @@ Mi formación en Ingeniería Industrial me da una perspectiva estructural y de o
 
 📂 **¿Quieres ver mi trabajo en acción?** Cada proyecto abajo muestra las herramientas realmente usadas, para que sepas exactamente qué esperar antes de entrar.
 
-#### 🚀 [Proyecto Integral de Extremo a Extremo](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
+#### 🚀 [Portafolio de Ciencia de datos](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
 * **De qué se trata:** Proyectos robustos que cubre todo el ciclo de vida del dato.
 * **Qué esperar:** Diseño de Diagrama Entidad-Relación (DER), extracción y consultas SQL complejas sobre datos transaccionales, procesamiento y análisis de patrones de fraude en Python, y un dashboard interactivo final enfocado en el desempeño del negocio.
 
-#### 🎯 Proyectos Especializados por Herramienta
 
-*Menores en alcance que el proyecto de arriba, pero cada uno enfocado en profundizar en una herramienta específica.*
 
-#### 📊 [Portafolio SQL](https://github.com/luisrodriguezarce55-lab/portfolio-sql)
-<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
+#### 📊 [Mini proyectos](https://github.com/luisrodriguezarce55-lab/portfolio-python)
+<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
-* **De qué se trata:** Una colección continua de práctica en SQL — los ejercicios y pequeñas construcciones detrás de mi estudio diario, no un solo gran proyecto. (Ingesta de datos, almacenamiento, procesamiento/transformación, análisis/despliegue de modelos y visualización/orquestación)
-* **Qué esperar:** Modelado entidad-relación, joins (`INNER`, `LEFT`, `RIGHT`, `FULL OUTER`), y lógica aplicada para estructurar bases de datos relacionales.
-
-#### 🐍 [Portafolio Python](https://github.com/luisrodriguezarce55-lab/portfolio-python)
-<a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-
-* **De qué se trata:** Una colección continua de práctica en Python, enfocada en trabajo con datos más que en programación general.
-* **Qué esperar:** Análisis exploratorio de datos, limpieza de datasets, y ejercicios de manipulación de datos usando Pandas.
+* Una recopilación continua de ejercicios prácticos con datos, pequeños desarrollos y scripts de prueba. Este espacio recoge el trabajo técnico cotidiano que forma parte de mi trayectoria en ingeniería de datos y ciencia de datos, centrándose en la resolución práctica de problemas más que en proyectos únicos y monolíticos.
 
 ---
 
