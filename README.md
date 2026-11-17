@@ -10,87 +10,87 @@
 
 ### 👤 Mi Filosofía y Enfoque
 
-No defino mi perfil con títulos teóricos — **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos, y lo uso como mi punto de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico: **Ingeniería de datos y arquitectura de soluciones:** desarrollo de pipelines listos para producción, trabajo con Azure y Databricks, y evolución progresiva hacia la arquitectura de de soluciones.
-Mi formación en Ingeniería Industrial me da una perspectiva estructural y de optimización de procesos que aplico directamente a los datos: cómo fluye la información, dónde se forman los cuellos de botella, y cómo diseñar sistemas que se sostengan bajo uso real — no solo que se vean correctos en papel.
+No defino mi perfil con títulos teóricos: **dejo que mi trabajo diario y los resultados de mis proyectos hablen por mí.** Actualmente estoy completando un programa de Ciencia de Datos y lo uso como puerta de entrada a la industria tecnológica. Mi objetivo real, sin embargo, es más específico:
+**ingeniería de datos y arquitectura de soluciones**, construyendo pipelines listos para producción, trabajando con Azure y Databricks y, con el tiempo, creciendo hacia arquitecto de soluciones.
+
+Mi formación en Ingeniería Industrial me da una mirada estructural y de optimización de procesos que aplico directamente a los datos: cómo fluye la información, dónde se forman los cuellos de botella y cómo diseñar sistemas que se sostienen en el uso real, y no solo se ven correctos en papel.
 
 ---
 
-### 🗺️ Mapa del Sitio — Navega Mi GitHub
+### 🗺️ Mapa del Sitio — Navega por Mi GitHub
 
-📍 **Este es el mapa de mi GitHub — puedes entrar aquí y acceder a todo de forma más directa.**
+📍 **Este es el mapa de mi GitHub: puedes entrar por aquí y acceder a todo de forma más directa.**
 
 [![Proyectos](https://img.shields.io/badge/📁_Proyectos-181717?style=for-the-badge)](#-proyectos-y-evidencia-de-trabajo)
 [![Notas](https://img.shields.io/badge/📝_Notas_y_Reflexiones-181717?style=for-the-badge)](#-notas-y-reflexiones)
 [![Blog](https://img.shields.io/badge/💭_Blog-181717?style=for-the-badge)](#-blog)
 [![Certificaciones](https://img.shields.io/badge/🏆_Certificaciones-181717?style=for-the-badge)](#-certificaciones)
 
-
-[![Mini Portfolio](https://img.shields.io/badge/Mini-Portafolio-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
-[![Bitácora Técnica](https://img.shields.io/badge/Bitácora_Técnica-F9A825?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-[![Historial Completo de Certificaciones](https://img.shields.io/badge/Historial_de_Certificaciones-6f42c1?style=for-the-badge)](https://github.com/luisrodriguezarce55-lab/Full-Certification-History)
-
----
-
-### ⏳ En Qué Trabajo Cada Día
-* **SQL, a diario:** modelado entidad-relación, escritura de consultas, y optimización de consultas cada vez más profunda
-* **Pensamiento estructural:** aplicando lógica de procesos de ingeniería industrial al diseño de bases de datos y esquemas
-* **Transparencia:** actualizando mis repositorios con progreso real, incluyendo las partes difíciles, no solo el trabajo terminado
+[![Mini Portafolio](https://img.shields.io/badge/Mini-Portafolio-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
+[![Diario Técnico](https://img.shields.io/badge/Diario_Técnico-F9A825?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/luisrodriguezarce55-lab/data-science-journal)
+[![Historial Completo de Certificaciones](https://img.shields.io/badge/Historial_Completo_de_Certificaciones-6f42c1?style=for-the-badge)](https://github.com/luisrodriguezarce55-lab/Full-Certification-History)
 
 ---
 
-### 🛠️ Habilidades Actuales 
+### ⏳ En Qué Trabajo Todos los Días
+* **SQL, a diario:** modelado entidad-relación, escritura de consultas y profundización constante en la optimización de queries
+* **Pensamiento estructural:** aplicar la lógica de procesos de la ingeniería industrial al diseño de bases de datos y esquemas
+* **Transparencia:** actualizar los repositorios con el progreso real, incluyendo las partes imperfectas, y no solo el trabajo terminado
 
-* **SQL — base sólida, profundizando**
+---
+
+### 🛠️ Habilidades Actuales
+
+* **SQL — base sólida, ganando profundidad**
   <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
   * Consultas básicas: `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`
   * Joins: `INNER`, `LEFT`, `RIGHT`, `FULL OUTER JOIN`
-  * Diseño de Diagramas Entidad-Relación (DER), normalización, llaves primarias/foráneas
-  * Profundizando actualmente: funciones de ventana, CTEs, indexación, rendimiento de consultas
+  * Diseño de Diagramas Entidad-Relación (ERD), normalización, llaves primarias/foráneas
+  * Profundizando actualmente: funciones de ventana (window functions), CTEs, indexación, rendimiento de consultas
 
 * **Análisis de Datos y Entornos (Python)**
   <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
-  * **Manipulación de Datos:** Manejo de valores nulos, filtrado, ordenamiento y transformaciones de datos usando `Pandas`.
-  * **Visualización Estática y EDA:** Desarrollo de gráficos informativos (histogramas, diagramas de dispersión, boxplots) usando `Matplotlib` y `Seaborn`.
-  * **Análisis Exploratorio de Datos:** Identificación de patrones, tendencias, y preparación de datasets para modelado o reportes posteriores.
+  * **Manipulación de Datos:** manejo de valores nulos, filtrado, ordenamiento y transformaciones de datos con `Pandas`.
+  * **Visualización Estática y EDA:** creación de gráficos informativos (histogramas, diagramas de dispersión, boxplots) con `Matplotlib` y `Seaborn`.
+  * **Análisis Exploratorio de Datos (EDA):** identificación de patrones y tendencias, y preparación de datasets para modelado o reportes posteriores.
 
 * **Visualización de Datos y BI**
   <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
-  * **Modelado de Reportes:** Conexión a fuentes de datos limpias (tablas SQL o DataFrames procesados).
-  * **Diseño de Dashboards:** Construcción de gráficos interactivos y visualizaciones claras adaptadas a métricas de negocio.
+  * **Modelado de Reportes:** conexión con fuentes de datos limpias (tablas SQL o DataFrames procesados).
+  * **Diseño de Dashboards:** creación de gráficos interactivos y visualizaciones claras, adaptadas a las métricas de negocio.
 
 ---
 
 ### 📁 Proyectos y Evidencia de Trabajo
 
-📂 **¿Quieres ver mi trabajo en acción?** Cada proyecto abajo muestra las herramientas realmente usadas, para que sepas exactamente qué esperar antes de entrar.
+📂 **¿Quieres ver mi trabajo en acción?** Cada proyecto a continuación muestra las herramientas realmente utilizadas, para que sepas exactamente qué esperar antes de entrar.
 
-#### 🚀 [Portafolio de Ciencia de datos](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
+#### 🚀 [Portafolio de Ciencia de Datos](https://github.com/luisrodriguezarce55-lab/proyecto-integral)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 
-* **De qué se trata:** Proyectos robustos que cubre todo el ciclo de vida del dato.
-* **Qué esperar:** Diseño de Diagrama Entidad-Relación (DER), extracción y consultas SQL complejas sobre datos transaccionales, procesamiento y análisis de patrones de fraude en Python, y un dashboard interactivo final enfocado en el desempeño del negocio.
+* **De qué trata:** proyectos robustos que cubren todo el ciclo de vida de los datos (ingesta, almacenamiento, procesamiento/transformación, análisis/servicio de modelos y visualización/orquestación).
+* **Qué esperar:** diseño de Diagrama Entidad-Relación (ERD), extracción y consultas SQL complejas sobre datos transaccionales, procesamiento en Python y análisis de patrones de fraude, y un dashboard interactivo final enfocado en el desempeño del negocio.
 
 
-
-#### 📊 [Mini proyectos](https://github.com/luisrodriguezarce55-lab/Mini-portfolio)
+#### 📊 [Mini Portafolio](https://github.com/luisrodriguezarce55-lab/portfolio-python)
 <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a> <a href="#tools-in-daily-execution"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
 
-* Una recopilación continua de ejercicios prácticos con datos, pequeños desarrollos y scripts de prueba. Este espacio recoge el trabajo técnico cotidiano que forma parte de mi trayectoria en ingeniería de datos y ciencia de datos, centrándose en la resolución práctica de problemas más que en proyectos únicos y monolíticos.
+* Una colección continua de ejercicios prácticos de datos, pequeños proyectos y scripts de práctica. Este espacio recoge el trabajo técnico del día a día detrás de mi camino en ingeniería y ciencia de datos, enfocado en la resolución práctica de problemas y no en proyectos únicos y monolíticos.
 
 ---
 
 ### 📝 Notas y Reflexiones
 
-📂 **¿Curioso sobre cómo pienso los problemas, no solo lo que construyo?** Estas son mis notas continuas — bitácoras diarias de clase, documentadas a medida que avanzo.
+📂 **¿Quieres saber cómo pienso los problemas, y no solo qué construyo?** Estas son mis notas continuas: diarios de clase, documentados sobre la marcha.
 
-#### 🗒️ [Bitácora de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
-Notas de clase diarias, ejercicios, y retos de programación — documentados sobre la marcha, no organizados después del hecho.
+#### 🗒️ [Diario de Desarrollo Técnico](https://github.com/luisrodriguezarce55-lab/data-science-journal)
+Notas diarias de clase, ejercicios y retos de código, documentados sobre la marcha, sin "limpiarlos" después.
 
 ---
 
 ### 💭 Blog
 
-📂 **Lo que voy a publicar aquí:** reflexiones cortas sobre cosas que escucho o leo sobre bases de datos, ingeniería de datos, y arquitectura de soluciones — podcasts, videos, conversaciones, o noticias que llaman mi atención. No son artículos pulidos, solo pensamiento genuino en voz alta mientras construyo familiaridad con el campo — qué me llamó la atención, por qué es interesante, y cómo se conecta con lo que estoy aprendiendo.
+📂 **Qué voy a publicar aquí:** reflexiones cortas sobre cosas que escucho o leo acerca de bases de datos, ingeniería de datos y arquitectura de soluciones: podcasts, videos, conversaciones o noticias que me llaman la atención. No son artículos pulidos, sino pensamiento en voz alta mientras me familiarizo con el campo: qué me llamó la atención, por qué es interesante y cómo se conecta con lo que estoy aprendiendo.
 
 ---
 
@@ -98,19 +98,15 @@ Notas de clase diarias, ejercicios, y retos de programación — documentados so
 
 | Institución | Programa / Credencial | Estado |
 | :--- | :--- | :---: |
-| **INCOEX impulsado por Procomer** | Técnico en Ciencia de Datos | Estudiando Diariamente ⏳ |
+| **Instituto Federal Rio Grande do Sul** | Banco de Dados: Oracle PL/SQL | Completado ✅ |
+| **Oracle & Alura** | SQL con MySQL Server de Oracle | Completado ✅ |
+| **INCOEX powered by Procomer** | Técnico en Ciencia de Datos | Completado ✅ |
 | **Cisco** | Data Science Essentials with Python | Completado ✅ |
-| **Cisco** | Introduction to Data Science | Completado ✅ |
-| **Cisco** | Data Analytics Essentials | Completado ✅ |
-| **Oracle & Alura** | SQL with MySQL Server from Oracle | Completado ✅ |
 | **Universidad Latina** | Ingeniería Industrial con énfasis en logística | Completado ✅ |
-| **McKinsey & Company** | The McKinsey.org Forward | Completado ✅ |
 
-📂 **¿Buscas mi historial completo?** Puedes revisar todas mis credenciales, cursos complementarios, y soporte académico detallado en mi [Historial Completo de Certificaciones](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
+📂 **¿Buscas mi formación completa?** Puedes revisar todas mis credenciales, cursos complementarios y respaldos académicos detallados en mi [Historial Completo de Certificaciones](https://github.com/luisrodriguezarce55-lab/Full-Certification-History).
 
 ---
 
 ### ✉️ Conectemos
 * 💼 **LinkedIn:** [Perfil Profesional de LinkedIn](https://www.linkedin.com/in/luis-felipe-rodriguez-arce/)
-
----
